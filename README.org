@@ -1,0 +1,10 @@
+* cl-mtgnet
+
+Common Lisp client library for the MTGNet RPC protocol
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtstickney/cl-mtgnet.git   |
+| commit  | ca3790e  |
+| systems | cl-mtgnet |
+|---------+-------------------------------------------|
+
