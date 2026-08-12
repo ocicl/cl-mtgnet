@@ -8,4 +8,4 @@ Common Lisp client library for the MTGNet RPC protocol
 | systems | cl-mtgnet |
 |---------+-------------------------------------------|
 
- 
+  
